@@ -1,7 +1,5 @@
 import pygame, os
-import numpy as np
 from .constants import *
-from time import sleep
 
 #button class
 class Button():

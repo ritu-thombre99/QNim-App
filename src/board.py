@@ -1,4 +1,3 @@
-from socket import gaierror
 import pygame
 from .constants import *
 from .button import *
