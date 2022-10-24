@@ -1,8 +1,6 @@
 from binascii import b2a_uu
 import pygame, os, sys
 from pygame.locals import *
-from tkinter import *
-from tkinter import messagebox
 
 from src.board import *
 from src.constants import *
