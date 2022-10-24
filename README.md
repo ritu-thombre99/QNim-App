@@ -10,3 +10,12 @@ To see the strategy quantum computer uses to play against classical player (huma
 + Open Anaconda terminal and ```cd``` to the location where QNim-App is downloaded
 + Type ```pip install -r requirements.txt``` to install required packages
 + To open game window, type ```python main.py```
+
+# How to play QNim game
++ Select amount of bulbs you want in each of the four rows on the light board and who should play first on the configuration page and hit start.
++ You can switch off minimum 1 bulb, upto as many bulbs as you can from any one of the row. You cannot switch off bulbs from multiple row at the same time.
++ Bulbs which you can flip during your turn will turn green.
++ When you are done with your turn, hit the quantum computer button for QC to play.
++ Player switching off the last bulb will lose
+
+# Happy playing :)
