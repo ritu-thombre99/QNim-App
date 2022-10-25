@@ -1,5 +1,5 @@
 # QNim-App
-QNim game is quantum version of classical Nim game. In QNim game, human/classical computer will play against quantum computer. Developed using pygame in python
+QNim game is a quantum version of classical Nim game. In QNim game, human/classical computer will play against quantum computer. Developed using pygame in python
 
 This project is implemented under the guidance of James Weaver as part of QAMP (Qiskit Advocate Mentorship Program) Fall-22. Project description can be found [here](https://github.com/qiskit-advocate/qamp-fall-22/issues/29).
 
