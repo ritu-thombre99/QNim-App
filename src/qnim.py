@@ -112,12 +112,16 @@ def qc_process(qc,objects_to_remove,address,flag,piles,removable_pile,removable_
 
     if removable_count == 0:
         for i in range(len(removable_pile)):
-            removable_pile[i] = 1
-        removable_count = 4
+            if piles[i] > 0:
+                removable_pile[i] = 1
+                removable_count += 1
 
     if removable_count == 4:
         removable_pile[removable_pile.index(min(removable_pile))] = 0
         removable_count = removable_count - 1
+
+    print(removable_pile, removable_count)
+
     qft_gate = custom_qft(3).to_gate()
     inverse_qft_gate = custom_qft(3).inverse().to_gate()
 
@@ -183,7 +187,6 @@ def get_quantum_move(piles, backend=None):
         removable_pile, removable_count = misere_step(ones, piles) 
     else:
         removable_pile, removable_count = get_piles_to_remove(piles)
-    print(removable_pile, removable_count)
 
     objects_to_remove = QuantumRegister(3,'piles')
     flag = QuantumRegister(1,'flag')
