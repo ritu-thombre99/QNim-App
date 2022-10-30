@@ -19,4 +19,13 @@ To see the strategy quantum computer uses to play against classical player (huma
 + When you are done with your turn, hit the quantum computer button for QC to play.
 + Player switching off the last bulb will lose
 
+# Screenshots
+![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/home.png?raw=true)
+![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/home_with_continue.png?raw=true)
+![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/config.png?raw=true)
+![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/game_player_turn.png?raw=true)
+![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/game_qc_turn.png?raw=true)
+![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/game_won.png?raw=true)
+![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/game_lost.png?raw=true)
+
 # Happy playing :)
