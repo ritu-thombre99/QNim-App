@@ -20,12 +20,25 @@ To see the strategy quantum computer uses to play against classical player (huma
 + Player switching off the last bulb will lose
 
 # Screenshots
+Home page:
 ![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/home.png?raw=true)
+
+Home page with current saved game:
 ![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/home_with_continue.png?raw=true)
+
+Configuration page
 ![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/config.png?raw=true)
+
+Player turn
 ![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/game_player_turn.png?raw=true)
+
+QC turn
 ![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/game_qc_turn.png?raw=true)
+
+Player won
 ![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/game_won.png?raw=true)
+
+QC won
 ![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/game_lost.png?raw=true)
 
 # Happy playing :)
