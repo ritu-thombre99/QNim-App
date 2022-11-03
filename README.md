@@ -25,7 +25,7 @@ Mathematical framwork:
 Experiment result:
 ![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/final_with_label.png)
 
-# ![Gameplay video link](https://youtu.be/vqE8HICiBqA)
+# [Gameplay video link](https://youtu.be/vqE8HICiBqA)
 # Screenshots
 Home page:
 ![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/home.png?raw=true)
