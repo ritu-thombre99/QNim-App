@@ -20,7 +20,7 @@ To see the strategy quantum computer uses to play against classical player (huma
 + Player switching off the last bulb will lose
 
 # QNim API
-Rest API developed using Flask in python which takes in the board state and returns the QC move. To start API locally on http://127.0.0.1:5000/, use python qnim_api.py in ![qnim_api folder](https://github.com/ritu-thombre99/QNim-App/tree/main/qnim_api).
+Rest API developed using Flask in python which takes in the board state and returns the QC move. To start API locally on http://127.0.0.1:5000/, use python qnim_api.py in [qnim_api folder](https://github.com/ritu-thombre99/QNim-App/tree/main/qnim_api).
 
 Mathematical framwork:
 ![alt text](https://github.com/ritu-thombre99/QNim-App/blob/main/screenshots/mathematical%20framework.png)
